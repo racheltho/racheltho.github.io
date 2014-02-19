@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Demo Site</title><link>http://getnikola.com/</link><description>This is a demo site for Nikola.</description><atom:link href="http://getnikola.com/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 19 Feb 2014 10:11:44 GMT</lastBuildDate><generator>Nikola &lt;http://getnikola.com/&gt;</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Starting My Blog</title><link>http://getnikola.com/posts/starting-my-blog.html</link><description>&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h1 id="starting-a-blog"&gt;Starting a blog&lt;/h1&gt;
+&lt;h3 id="if-you-are-reading-this-then-i-have-succeeded"&gt;if you are reading this, then I have succeeded&lt;/h3&gt;
+&lt;p&gt;The first step to starting a blog was choosing a platform. I was pretty sure I wanted to use ipython notebook, having found some recent inspiration from Brian Granger's &lt;a href="https://github.com/ellisonbg/talk-strata-sc2014"&gt;Strata Talk&lt;/a&gt; and Cam Davidson-Pilon's &lt;a href="http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb"&gt;Bayesian Methods for Hackers book&lt;/a&gt; (neither of these are blogs, but they are both awesome).&lt;/p&gt;
+&lt;p&gt;But ipython notebook is not a platform. Google revealed a few options: Use nbconvert to convert ipynb to html and then put on blogger &lt;a href="http://getnikola.com/"&gt;Nikola&lt;/a&gt; static site generator&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell vbox"&gt;
+&lt;div class="input hbox"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="input_area box-flex1"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</description><guid>http://getnikola.com/posts/starting-my-blog.html</guid><pubDate>Mon, 17 Feb 2014 14:50:36 GMT</pubDate></item></channel></rss>
