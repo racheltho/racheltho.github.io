@@ -5,39 +5,55 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://getnikola.com/2014/index.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/2014/index.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/archive.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/archive.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/index.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/categories/debugging.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/galleries/index.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/categories/debugging.xml</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/galleries/rss.xml</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/categories/index.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/index.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/galleries/index.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/listings/index.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/galleries/rss.xml</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/posts/starting-my-blog.html</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/index.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/rss.xml</loc>
-  <lastmod>2014-02-17</lastmod>
+  <loc>http://racheltho.github.io/listings/index.html</loc>
+  <lastmod>2014-02-19</lastmod>
+ </url>
+ <url>
+  <loc>http://racheltho.github.io/posts/starting-my-blog.html</loc>
+  <lastmod>2014-02-19</lastmod>
+ </url>
+ <url>
+  <loc>http://racheltho.github.io/posts/true-confessions.html</loc>
+  <lastmod>2014-02-19</lastmod>
+ </url>
+ <url>
+  <loc>http://racheltho.github.io/rss.xml</loc>
+  <lastmod>2014-02-19</lastmod>
+ </url>
+ <url>
+  <loc>http://racheltho.github.io/starting-my-blog.html</loc>
+  <lastmod>2014-02-19</lastmod>
  </url>
 </urlset>
